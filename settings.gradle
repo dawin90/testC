@@ -1,0 +1,4 @@
+rootProject.name = 'testC'
+include 't3test_core'
+include 't3test_web_xdm'
+
